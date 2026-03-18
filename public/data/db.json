@@ -1,0 +1,1215 @@
+{
+  "imporatant-notes": [
+    { "id": 1, "text": "התוכנית הינה המלצה בלבד ואין חובה לבצע אותה" },
+    {
+      "id": 2,
+      "text": "טרם ביצוע התוכנית, חובה להיבדק על ידי רופא המשפחה לטובת קבלת אישור לכשירות גופנית מלאה- ללא אישור רפואי, אין לבצע את התוכנית!"
+    },
+    {
+      "id": 3,
+      "text": "אין לבצע תוכנית זו, בנוסף לתוכנית אימונים נוספת אותה אתה מבצע."
+    },
+    {
+      "id": 4,
+      "text": "במידה ואתה מתאמן במסגרת מסודרת או מבצע תוכנית אימונים אחרת המתאימה לך, ניתן להמשיך להתאמן על פיה."
+    }
+  ],
+  "needs-texts": [
+    {
+      "title": "שעות אימון",
+      "id": "workout-hours",
+      "text": "רצוי לבצע את האימונים כשהתנאים הסביבתיים נוחים ומתאימים. אין לבצע את האימונים בשעות חמות!"
+    },
+    {
+      "title": "שעות שינה ופעילות גופנית",
+      "id": "rest-hours",
+      "text": "מומלץ להימנע מביצוע אימונים במידה וישנתם פחות מ-6 שעות בלילה"
+    },
+    {
+      "title": "משטחי אימונים",
+      "id": "workout-space",
+      "text": "אימוני ריצה יש לבצע על משטחים רכים יחסית, רצוי לא לרוץ על משטחי אספלט, בכדי למזער את עוצמת הזעזוע של מערכת השלד שריר ורקמת החיבור"
+    },
+    {
+      "title": "נשיאת משאות/משקלים",
+      "id": "weights-workout",
+      "text": "חל איסור לרוץ עם משקל על הגב במסגרת ההכנה"
+    },
+    {
+      "title": "לבוש",
+      "id": "workout-clothes",
+      "text": "כדאי לרוץ או לבצע את הפעילות עם בגדים קלים ומותאמים למזג האוויר, בנוסף, בתום האימון יש להחליף ביגוד רטוב ביבש מהר ככל הניתן."
+    },
+    {
+      "title": "נעליים",
+      "id": "workout-shoes",
+      "text": "הנעל צריכה להתאים לאופי הפעילות (נעלי ריצה), יש לבדוק את סוליית נעלי הריצה שאיתה מבצעים את הפעילות."
+    },
+    {
+      "title": "ביצוע נכון של התוכנית",
+      "id": "correct-workout",
+      "text": "בתוכנית שלפנייך ניתן דגש לוויסות העומסים כך שמומלץ להיצמד ככל הניתן לנכתב בתוכנית. אין לחשוש ממצב בו החסרת אימון בודד או שניים... במידת האפשר, תוך הפעלת שיקול דעת, ניתן להשלימו או להמשיך להתקדם בתוכנית. במידת הצורך יש לחזור על השבוע פעם נוספת. העיקרון המנחה הוא שמוטב להאט את קצב ההתקדמות מאשר להעמיס יתר על המידה ולהיפצע."
+    },
+    {
+      "title": "תשומת לב לכאבים",
+      "id": "noticing-pain",
+      "text": "בזמן הפעילות, היה וחשת רגישות בגפיים העליונות או התחתונות, הנך חייב להוריד בעומסים. ההפחתה יכולה להתבצעה או על ידי קיצור מרחקי הריצה הבודדת, או הורדת כמות הריצות השבועית. הפעל שיקול דעת בסוגיה זו. יש לבדוק אם הכאבים האלה נמשכים ולפעול בהתאם. כאב הוא סוג של איתות מהגוף, המראה שמשהו אינו כשורה. כאב שנשמך או מתגבר- רצוי לבדקו אצל גורם רפואי מוסמך  שיאבחן את הבעיה. המנע לחלוטין מעבודה תוך כאב חוזר או מתגבר במקום ספציפי."
+    }
+  ],
+  "diet": [
+    {
+      "title": "סדר יום",
+      "id": "schedule",
+      "page": "1/9",
+      "text": "שמרו על סדר יום תזונתי הכולל-ארוחת בוקר, צהרים, ערב ו3-2 ארוחות ביניים. צריכת מזון לאורך היום תאפשר הגעה לכמות האנרגיה הרצויה וכן לשמירה על תפקוד מיטבי."
+    },
+    {
+      "title": "בארוחות הגדולות (בוקר, צהריים, ערב)",
+      "id": "big-meals",
+      "page": "2/9",
+      "text": "הקפידו על ארוחה מאוזנת המכילה חלבון (חלב ומוצריו, ביצים, דגים, בקר, הודו) ביחד עם פחמימות (דגנים, קטניות, לחם) וירקות מגוונים."
+    },
+    {
+      "title": "ארוחות הביניים",
+      "id": "inbetween-meals",
+      "page": "3/9",
+      "text": "הקפידו לצרוך פירות, פירות יבשים, אגוזים, יוגורטים, כריך."
+    },
+    {
+      "title": "עלייה במשקל",
+      "id": "gaining-weight",
+      "page": "4/9",
+      "text": "לטובת עליה בריאה במשקל יש להיות במאזן אנרגיה חיובי- להכניס יותר קלוריות ממה שמוציאים כל עוד מתרחש תהליך עליה במשקל, משמע, מאזן האנרגיה חיובי. למי שמתקשה לעלות במשקל, מומלץ להגדיל צריכה קלורית ע''י- הגדלת כמויות בארוחות, להגדיל ארוחות ביניים, להעשיר את התפריט בפירות יבשים, שקדים, אגוזים, טחינה, אבוקדו, חמאות אגוזים, מיצי פרי, שייקים וכו'."
+    },
+    {
+      "title": "סידן",
+      "id": "calcium",
+      "page": "5/9",
+      "text": "אחד ממרכיבי התזונה החשובים למניעת שברי מאמץ ושמירה על בריאות ובניית העצם. על מנת לספק כמות נאותה של סידן, מומלץ להקפיד לצרוך חלב ומוצריו (להעדיף את המעושרים בסידן), טחינה משומשום מלא, שקדים, כרוב, ברוקולי."
+    },
+    {
+      "title": "ברזל",
+      "id": "iron",
+      "page": "6/9",
+      "text": "במחקרים על חיילים וחיילות בצה''ל עלה כי יש שכיחות גבוהה יותר של אנמיה מחוסר ברזל, אשר עלול לפגוע בתפקוד הגופני והמנטאלי. מומלץ להקפיד על העשרת התפריט בברזל-בשר בקר, הודו, קטניות, דגנים מלאים, אגוזים ושקדים."
+    },
+    {
+      "title": "טבעונים",
+      "id": "vegan",
+      "page": "7/9",
+      "text": "עומדים באתגר גדול לאספקת חלבון וברזל, מומלץ להקפיד על אכילת מזונות איכותיים מן הצומח- קטניות, דגנים מלאים, עלים ירוקים, אגוזים ופירות יבשים."
+    },
+    {
+      "title": "ירקות ופירות",
+      "id": "vegies-fruits",
+      "page": "8/9",
+      "text": "מכילים מגוון רחב של ויטמינים ומינרלים, חיוניים לתפקוד פיזי מיטבי, להתאוששות ממאמץ, להורדת מדדי דלקת ועוד. המלצה- שלבו לפחות 2 מנות פרי ביום ועוד סלט/תבשיל ירקות גדול."
+    },
+    {
+      "title": "מים",
+      "id": "water",
+      "page": "9/9",
+      "text": "למים תפקידים רבים בבריאות, הם משפיעים על היכולת הגופנית, הן בפן הפיזי, הן בפן המנטאלי והן בפאן הקוגניטיבי. מומלץ להקפיד על שתיית מים מספקת לאורך היום, לוודא שצבע השתן 'בהיר' ולא לחכות לתחושת 'צמא' על מנת לשתות."
+    }
+  ],
+  "running-program": [
+    {
+      "week": "שבוע 1",
+      "id": "week-1",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 20,
+          "program-details": "20 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [5, 6, 5],
+          "program-details": [
+            "5 דק חימום בקצב קל",
+            "6 דק ריצה בקצב בינוני",
+            "5 דק ריצה קלה - שחרור"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 2",
+      "id": "week-2",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 25,
+          "program-details": "25 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [5, 6, 5],
+          "program-details": [
+            "5 דק חימום בקצב קל",
+            "10 דק ריצה בקצב קל + 5 מתגברות (50 מטר)",
+            "5 דק ריצה קלה"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 3",
+      "id": "week-3",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 30,
+          "program-details": "30 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [5, 5, 5, 4, 5],
+          "program-details": [
+            "5 דק חימום בקצב קל מאוד",
+            "5 דק ריצה בקצב קל",
+            "5 דק ריצה בקצב בינוני",
+            "4 דק ריצה בקצב מהיר",
+            "5 דק ריצה בקצב קל מאוד- שחרור"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 4",
+      "id": "week-4",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 30,
+          "program-details": "30 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [5, 15, 5],
+          "program-details": [
+            "5 דק חימום ",
+            "15 דק ריצה בקצב קל + 5 מתגברות",
+            "5 דק ריצה קלה"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 5",
+      "id": "week-5",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 35,
+          "program-details": "35 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [5, 8, 3, 6, 5],
+          "program-details": [
+            "5 דק חימום בקצב קל",
+            "8 דק ריצה בקצב בינוני",
+            "3 דק ריצה קלה מאוד",
+            "6 דק ריצה בקצב בינוני",
+            "5 דק ריצה קלה שחרור"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 6",
+      "id": "week-6",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 35,
+          "program-details": "35 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [5, 20, 5],
+          "program-details": [
+            "5 דק חימום ",
+            "20 דק ריצה בקצב קל +5 מתגברות",
+            "5 דק ריצה קלה"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 7",
+      "id": "week-7",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 40,
+          "program-details": "40 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [10, 15, 5],
+          "program-details": [
+            "10 דק חימום בקצב קל",
+            "15 דק ריצה בקצב בינוני",
+            "5 דק ריצה שחרור"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 8",
+      "id": "week-8",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 40,
+          "program-details": "40 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [5, 10, 8, 6, 5],
+          "program-details": [
+            "5 דק חימום בקצב קל מאוד",
+            "10 דק ריצה בקצב קל",
+            "8 דק ריצה בקצב בינוני",
+            "6 דק ריצה בקצב מהיר",
+            "5 דק ריצה בקצב קל מאוד- שחרור"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 9",
+      "id": "week-9",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 45,
+          "program-details": "45 דקות רצף קל"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [10, 10, 5, 3, 10],
+          "program-details": [
+            "10 דק חימום ",
+            "10 דק ריצה בקצב בינוני",
+            "5 דק ריצה קלה",
+            "3 דק בקצב חזק",
+            "10 דק שחרור"
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 10",
+      "id": "week-10",
+      "runningPrograms": [
+        {
+          "title": "ריצת רצף",
+          "program-timer": 0,
+          "program-details": "מדידה עצמאית- 3 ק״מ"
+        },
+        {
+          "title": "ריצת איכות",
+          "program-timer": [40],
+          "program-details": ["40 דק בקצב קל"]
+        }
+      ]
+    }
+  ],
+  "stretching": [
+    {
+      "title": "תלת ראשי",
+      "stretch-description": "היד מורמת למעלה, מרפק מכופף, היד השנייה אוחזת במרפק",
+      "notes": "לנסות להביא את המרפק כמה שניתן לאחור ולמרכז"
+    },
+    {
+      "title": "בין צלעיים",
+      "stretch-description": "ידיים משולבות מעל הראש, הטיית הגוף המצידה.",
+      "notes": "להרגיש את כל צד הגוף נפתח, לשמור על בית חזה פתוח, ראשי רפוי ממשיך את קו הגוף."
+    },
+    {
+      "title": "חזה",
+      "stretch-description": "עמידה, ידיים ישרות, שלובות מאחוריי הגב.",
+      "notes": "הרמת הידיים גבוה ככל האפשר, חשוב לשמור על גב ישר ומבט קדימה."
+    },
+    {
+      "title": "בטן",
+      "stretch-description": "שכיבה על הגב, שאיפה שהרגליים והידיים יגיעו כמה שיותר רחוק.",
+      "notes": "ידיים ורגליים ישרות."
+    },
+    {
+      "title": "זוקפי גו",
+      "stretch-description": "ידיים אחוזות במט/מעקה (מעמד קשיח) עמידה על הרגליים, כיפוף הגב למטה.",
+      "notes": "גב מתכופף כלפי מטה, ברכיים רפויות."
+    },
+    {
+      "title": "צוואר",
+      "stretch-description": "עמידה על 2 רגליים, ידיים ישרות צמודות לגוף, הסטת הראש לצד אחד ולאחר מכן לצד השני.",
+      "notes": "ניתן להוסיף העמקה של המתיחה בעזרת כף היד, מונחת על הראש ומעמיקה את המתיחה."
+    },
+    {
+      "title": "עכוז",
+      "stretch-description": "שכיבה על הגב/ישיבה, מצליבים רגל אחת מעל הברך של הרגל השנייה.",
+      "notes": "מוסיפים תמיכה של היד להעמקת המתיחה."
+    },
+    {
+      "title": "מותן כסל",
+      "stretch-description": "מביאים רגל אחת קדימה כאשר כל כף הרגל סחוטה לקרקע, רגל שניה לאחור כאשר כף הרגל מונחת על האצבעות ומבצעים ניעות עם הברך כלפי מטה.",
+      "notes": "יש לשים לב כי הברך כמעט נוגעת ברצפה, ראש מסתכל ישר, ידיים מונחות על הקרקע לתמיכה."
+    },
+    {
+      "title": "ארבע ראשי",
+      "stretch-description": "עמידה-יד תופסת רגל נגדית (ניתן להיעזדר ביד השנייה), מותחים את הארבע ראשי. ישיבה- רגל אחת נמצאת בישיבת פרפר ורגל אחת הולכת לאחור.",
+      "notes": "עמידה-יד אחת תומכת ויד שניה מחזיקה ברגל הנגדית להעמקת המתיחה. ישיבה-רגליים סחוטות לקרקע ידיים תומכות לאחור, הישענות של הגב להרגשת המתיחה."
+    },
+    {
+      "title": "חבליים",
+      "stretch-description": "רגל אחת בישיבת פרפר ורגל שנייה ישרה, מתכופפים קדימה לכיוון הרגל הישרה.",
+      "notes": "יש להקפיד שהכפיפה תבוא מהמותן ולא מהגב- רצוי לבצע את הכפיפה תוך הוצאת צוואר."
+    },
+    {
+      "title": "מקרבים",
+      "stretch-description": "ישיבת פרפר, בעזרת המרפקים מנסים לדחוף את הברכיים לכיוון הרצפה ונשענים קדימה.",
+      "notes": "יד להקפיד שהכפיפה תבוא מהמותן ולא מהגב, הגב נשאר ישר."
+    },
+    {
+      "title": "תאומים",
+      "stretch-description": "הישענות על קיר-לקיחת רגל אחת קדימה ורגל שנייה לאחור ישרה, ידיים נשענות על הקיר.",
+      "notes": "ידיים דוחפות את הקיר, מתיחה של רגל אחת בכל פעם."
+    }
+  ],
+  "powerExerciesNotes": [
+    {
+      "id": "firstNote",
+      "text": "אימוני הכוח יתמקדו ב-5 תרגילים עיקריים (מתח,מקבילים, שכיבות שמיכה, סקוואט, מכרעים)."
+    },
+    {
+      "id": "secondNote",
+      "text": "בכל שבוע יתבצעו 3 אימוני כוח על פי הכתוב בתוכנית."
+    },
+    {
+      "id": "thirdNote",
+      "text": "זמני מנוחה- בין תרגיל לתרגיל ביצוע מנוחה של לפחות 2 דקות מלאות."
+    },
+    {
+      "id": "fourthNote",
+      "text": "כל התרגילים מתבצעים ללא משקל, במידה ומרגישים שיכולים לשלב משקל יכולים בהתאם לשיקול דעת נכון."
+    },
+    {
+      "id": "fifthNote",
+      "text": "איך לעבוד עם התוכנית? (רלוונטי למתח ומקבילים) אימוני הכוח מתבססים על אחוזים מהמקסימום של מספר חזרות. בדיקת מצב יכולת מירבית (100%) הינו מדבק בו אתה נדרש לבצע מקסימום חזרות על המתח, ממספר החזרות שהצלחת לבצע תוכל לחשב את מספר החזרות הנדרשות לתוכנית."
+    }
+  ],
+  "power-exercises-videos": [
+    {
+      "title": "מתח",
+      "link": "https://drive.google.com/file/d/15OFEDDDBt4d8Q40UiNVJIsy7C7C5i5AF/preview"
+    },
+    {
+      "title": "מקבילים",
+      "link": "https://drive.google.com/file/d/17ppZ8ml1TlOBwFcJ17_wcUN6LYxanWqX/preview"
+    },
+    {
+      "title": "שכיבות שמיכה",
+      "link": "https://drive.google.com/file/d/15erbV_WFaQOpGKFYJ86hQZ-5-Fk8wnls/preview"
+    },
+    {
+      "title": "סקוואט",
+      "link": "https://drive.google.com/file/d/1tHmxLtVWSHmuk_gA9WVc-XOstgpH_Ps9/preview"
+    },
+    {
+      "title": "מכרעים",
+      "link": "https://drive.google.com/file/d/1pfAI4ZH5sJnV6icgcNEjbTUjBwthkMjA/preview"
+    }
+  ],
+  "power-exercises": [
+    {
+      "week": "שבוע 1",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            { "exercise-title": "מתח", "exercise-notes": "בדיקת מצב 100%" },
+            { "exercise-title": "מקבילים", "exercise-notes": "בדיקת מצב 100%" },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "6 חזרות, 2 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "15 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "16 חזרות, 1 סט" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 3 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 3 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "8 חזרות, 2 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "15 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "16 חזרות, 1 סט" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 3 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 3 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "10 חזרות, 2 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "12 חזרות,3 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "12 חזרות, 1 סט" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 2",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "6 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "18 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "20 חזרות, 1 סט" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "8 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "18 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "20 חזרות, 1 סט" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "10 חזרות,3 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "15 חזרות,1 סט" },
+            { "exercise-title": "מכרעים", "exercise-notes": "16 חזרות, 3 סטים" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 3",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "10 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "20 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "24 חזרות, 1 סט" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "12 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "20 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "24 חזרות, 1 סט" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "12 חזרות,3 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "15 חזרות,3 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "20 חזרות, 1 סט" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 4",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            { "exercise-title": "מתח", "exercise-notes": "בדיקת מצב 100%" },
+            { "exercise-title": "מקבילים", "exercise-notes": "בדיקת מצב 100%" },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "6 חזרות, 2 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "22 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "16 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 3 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 3 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "14 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "22 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "16 חזרות, סט 2" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "14 חזרות,3 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "18 חזרות,1 סט" },
+            { "exercise-title": "מכרעים", "exercise-notes": "18 חזרות, 3 סטים" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 5",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": " בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": " בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "16 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "24 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "20 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "16 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "24 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "20 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 100% סט, בדיקת מצב 60% 3 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 100% סט, בדיקת מצב 60% 3 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "10 חזרות,3 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "20 חזרות,3 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "22 חזרות, 1 סט" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 6",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": " בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": " בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "12 חזרות, 4 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "15 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "22 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "14 חזרות, 4 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "15 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "22 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "14 חזרות,4 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "18 חזרות,2 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "20 חזרות, 3 סטים" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 7",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            { "exercise-title": "מתח", "exercise-notes": "בדיקת מצב 100%" },
+            { "exercise-title": "מקבילים", "exercise-notes": "בדיקת מצב 100%" },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "18 חזרות, 4 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "18 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "24 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 4 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "20 חזרות, 4 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "18 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "24 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "24 חזרות,4 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "22 חזרות,3 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "24 חזרות, 1 סט" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 8",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "28 חזרות, 2 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "20 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "26 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "בדיקת מצב 100%"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "20 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "26 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 60%, 5 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "20-30 חזרות"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "20 חזרות,2 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "22 חזרות, 3 סטים" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 9",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 75%-80%, 3 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 75%-80%, 3 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "20 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "15 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "10 חזרות, 3 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 80%-85%, 3 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 80%-85%, 2 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "20 חזרות, 3 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "20 חזרות, 3 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "12 חזרות, 3 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "בדיקת מצב 90%-85%, 3 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "בדיקת מצב 90%-85%, 3 סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "30 חזרות, 3 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "22 חזרות,3 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "15 חזרות, 3 סטים" }
+          ]
+        }
+      ]
+    },
+    {
+      "week": "שבוע 10",
+      "all-exercises": [
+        {
+          "exercise-number": "אימון 1",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "כמה חזרות מתח חופשי אפשר לבצע עד לכישלון טכני"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": "כמה חזרות מקבילים אפשר לבצע עד לכישלון טכני"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "כמה חזרות שכיבות סמיכה אפשר לבצע עד לכישלון טכני"
+            }
+          ]
+        },
+        {
+          "exercise-number": "אימון 2",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": "65%–70% מהמשקל המקסימלי,2 סטים"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": " 65%–70% מהיכולת, 2סטים"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "20 חזרות, 2 סטים"
+            },
+            {
+              "exercise-title": "סקוואט",
+              "exercise-notes": "16 חזרות, 2 סטים"
+            },
+            { "exercise-title": "מכרעים", "exercise-notes": "14 חזרות, 2 סטים" }
+          ]
+        },
+        {
+          "exercise-number": "אימון 3",
+          "exercises": [
+            {
+              "exercise-title": "מתח",
+              "exercise-notes": " 60%–65% מהמשקל המקסימלי, 1 סט"
+            },
+            {
+              "exercise-title": "מקבילים",
+              "exercise-notes": " 60%–65% מהמשקל המקסימלי, 1 סט"
+            },
+            {
+              "exercise-title": "שכיבות שמיכה",
+              "exercise-notes": "15 חזרות, 2 סטים"
+            },
+            { "exercise-title": "סקוואט", "exercise-notes": "14 חזרות,2 סטים" },
+            { "exercise-title": "מכרעים", "exercise-notes": "12 חזרות, 1 סט" }
+          ]
+        }
+      ]
+    }
+  ],
+  "lower-back-stability": [
+    {
+      "exercise-number": ["תרגיל 1- גשר צידי"],
+      "exercise-instructions": [
+        "דרגת קושי 1: שכב על הצד, ברכיים כפופות, הרם אגן מעל לקו האמצע."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["10"],
+      "video": [
+        "https://drive.google.com/file/d/1cawLcYntCtN5_pOa-GgqMDoWjFRtU5fX/preview"
+      ]
+    },
+    {
+      "exercise-number": [
+        "תרגיל 2- הרמות אגן",
+        "תרגיל 2- הרמות אגן- דרגת קושי גבוהה"
+      ],
+      "exercise-instructions": [
+        "דרגת קושי 1: הרם את האגן למעלה תוך כדי כיווץ ישבנים, מבלי להקשית  את הגב התחתון, והורד אותו באיטיות מטה. דרגת קושי 2: ביצוע דומה עם רגל אחת באוויר"
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["15"],
+      "video": [
+        "https://drive.google.com/file/d/1wp70QIxfaU8ZFvBEym0PBotn7NuHqphu/preview",
+        "https://drive.google.com/file/d/1kv3bxg6Z67UxMmmskXOp2QsGAjzguorK/preview"
+      ]
+    },
+    {
+      "exercise-number": ["תרגיל 3- שמיכה קדמית- פלאנק"],
+      "exercise-instructions": [
+        "דרגת קושי 1: השען על האמות ועל כריות כפות הרגליים. הקפד על הבטן מוכנסת פנימה ואגן בקו הגוף."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["30"],
+      "video": [
+        "https://drive.google.com/file/d/1VnMAzFqnd1Nqv3gMEjIEYv_fPtqpELFq/preview"
+      ]
+    },
+    {
+      "exercise-number": ["תרגיל 4- שיווי משקל בעמידת 6"],
+      "exercise-instructions": [
+        "עמידת 6, הצמד בטן פנימה. הרם יד ורגל נגדית למעלה, ללא הקשתה של הגב."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["12"],
+      "video": [
+        "https://drive.google.com/file/d/1YC9E9p4RahP40P1ZMM2oVpOSiqkeYR55/preview"
+      ]
+    },
+    {
+      "exercise-number": ["תרגיל 5- עמידה על רגל אחת"],
+      "exercise-instructions": [
+        "עמוד יציב על רגל אחת. הנף את הרגל שבאוויר קדימה, אחורה, הצידה ובחזרה."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["1"],
+      "video": [
+        "https://drive.google.com/file/d/1rks3T_YRbGEPhCLdImq63Fvn-wnIu4Rc/preview"
+      ]
+    }
+  ],
+  "shoulder-stability": [
+    {
+      "exercise-number": [
+        "תרגיל 1- תנועה אלכסונית עם סיבוב חיצוני של הזרוע בשכיבה על הצד"
+      ],
+      "exercise-instructions": [
+        "שכב על הצד (על האמה), יד ישרה ובאלכסון לפנים (ליד היד הנגדית) אוחזת במימיה/משקולת. הרם את היד בתנועה אלכסונית עד לקו הגוף, והחזר אותה למטה. (מתחילים כשפיית המימייה פנימה ומסיימים כשהיא פונה החוצה)"
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["15"],
+      "video": [
+        "https://drive.google.com/file/d/1PlffMqGYeLnCckm_GDtTgAd875utcQYe/preview"
+      ]
+    },
+    {
+      "exercise-number": ["תרגיל 2- סיבוב חיצוני בזרועות על הבטן"],
+      "exercise-instructions": [
+        "שכב על הבטן, הרם את פלג גופך העליון (אפשר גם רק את הזרועות), ידיים צמודות ליריכיים, אגודלים כלפי מטה. הבא את הידיים לפניך בלי לכופף את המרפקים ובלי לגעת ברצפה. במהלך התנועה סובב את הידיים כך שבסופה האגודלים כלפי מעלה. חזור לנק' המוצא."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["15"],
+      "video": [
+        "https://drive.google.com/file/d/10SkBC9dTqNSTbgem6efmOi4qIVS3RV8v/preview"
+      ]
+    },
+    {
+      "exercise-number": ["תרגיל 3- גשר צידי"],
+      "exercise-instructions": [
+        "דרגת קושי 1: שכב על הצד, ברכיים כפופות, הרם אגן מעל לקו האמצע."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["10"],
+      "video": [
+        "https://drive.google.com/file/d/1cawLcYntCtN5_pOa-GgqMDoWjFRtU5fX/preview"
+      ]
+    },
+    {
+      "exercise-number": ["תרגיל 4- דחיקת שכמות למטה"],
+      "exercise-instructions": [
+        "בישיבה, אחוז בצידי המושב בידיים ישרות, הרחק את הראש מהכתפיים והורד. המרפקים נשארים ישרים."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["15"],
+      "video": [
+        "https://drive.google.com/file/d/1k3ZqLLmXGPCD2oDqZdVT0EwoPm-lhE1Y/preview"
+      ]
+    },
+    {
+      "exercise-number": ["תרגיל 5- סמיכה קדמית - פתיחה ל-T"],
+      "exercise-instructions": [
+        "התחל ממצב 2, יד אחת עולה מעלה לכיוון התקרה תוך כדי פיתול הגוף, וחוזרת לקרקע. שמור על הגו מתוח וישר במהלך התרגיל."
+      ],
+      "sets-number": ["3"],
+      "repeating-exercise": ["30"],
+      "video": [
+        "https://drive.google.com/file/d/18ZNbHRtBMN_bZAYTlCi25YAgeBIa4tMi/preview"
+      ]
+    }
+  ],
+  "foot-stability": [
+    { "exercise-number": ["תרגיל 1- סקוואט מלא"], "exercise-instructions": ["עמוד בפישוק רחב מעט מרוחב האגן. הבא את ישבנך אחורה ומטה כך שתווצר כפיפה בברכיים. רד כמה שניתן תוך הצמדת העקבים לקרקע לאורך כל התנועה."], "sets-number": ["3"], "repeating-exercise": ["15"], "video": ["https://drive.google.com/file/d/1tHmxLtVWSHmuk_gA9WVc-XOstgpH_Ps9/preview"] },
+    { "exercise-number": ["תרגיל 2- הרמות אגן", "תרגיל 3- הרמות אגן- דרגת קושי גבוהה "], "exercise-instructions": ["דרגת קושי 1: הרם את האגן למעלה תוך כדי כיווץ ישבנים, מבלי להקשית את הגב התחתון, והורד אותו באיטיות מטה. דרגת קושי 2: ביצוע דומה עם רגל אחת באוויר."], "sets-number": ["3"], "repeating-exercise": ["15"], "video": ["https://drive.google.com/file/d/1wp70QIxfaU8ZFvBEym0PBotn7NuHqphu/preview", "https://drive.google.com/file/d/1kv3bxg6Z67UxMmmskXOp2QsGAjzguorK/preview"] },
+    { "exercise-number": ["תרגיל 3- הרמת עקבים"], "exercise-instructions": ["עמוד על קצה מדרגה ואחוז במעקה. התרומם על הבהונות, החזק למשך 3 שניות ורד למטה לאט."], "sets-number": ["3"], "repeating-exercise": ["15"], "video": ["https://drive.google.com/file/d/103YWzZMYwa6T4Rtu8xsQ_GgLnvxL_k9L/preview"] },
+    { "exercise-number": ["תרגיל 4- עמידה על רגל אחת", "תרגיל 5- עמידה על רגל אחת רמת קושי גבוהה"], "exercise-instructions": ["הנף את הרגל שבאוויר הצידה ובחזרה."], "sets-number": ["6"], "repeating-exercise": ["30"], "video": ["https://drive.google.com/file/d/1rks3T_YRbGEPhCLdImq63Fvn-wnIu4Rc/preview", "https://drive.google.com/file/d/1d9oHRb5zgX8Fp1bUHUMXz_befWIdWFU_/preview"] },
+    { "exercise-number": ["תרגיל 5- סקוואט על רגל אחת"], "exercise-instructions": ["עמוד על רגל אחת, הרגל השניה כפופה באוויר לאחור. כופף את  הברך של הרגל הקדמית עד שהרגל האחורית כמעט נוגעת ברצפה ועלה מעלה חזרה."], "sets-number": ["3"], "repeating-exercise": ["10"], "video": ["https://drive.google.com/file/d/1p2OgYFJG7QK3YHtfnqqFWnc-SJCUXm_V/preview"] },
+    { "exercise-number": ["תרגיל 6- ניתורים על רגל אחת"], "exercise-instructions": ["בצע ניתורים על רגל אחת קדימה, אחורה ולצדדים."], "sets-number": [" "], "repeating-exercise": [" "], "video": ["https://drive.google.com/file/d/1Sm5_u1-RNZ-U8TUBhbM6QGbUeXk7IlFD/preview"] },
+    { "exercise-number": ["תרגיל 7- הליכה אחורנית"], "exercise-instructions": ["לך אחורנית כאשר כריות כף הרגל נוגעות ראשונות בקרקע ורק אחריהן מגיע העקב."], "sets-number": ["3"], "repeating-exercise": ["20"], "video": ["https://drive.google.com/file/d/1Zfd5Umt63H5wqh8XA2KfrkmGSfSlnPEm/preview"] }
+  ]
+}
