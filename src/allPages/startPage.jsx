@@ -1,7 +1,7 @@
-import cat from "../media/cat.svg";
+import yahak from "../media/yahakLogo.png";
 import kanaf from "../media/kanaf.svg";
 import school from "../media/school.svg";
-import shaldag from "../media/shaldag.svg";
+import SOI from "../media/soiLogo2.svg";
 
 import { Link } from "react-router-dom";
 
@@ -11,8 +11,8 @@ const StartPage = () => {
       <div className="logos">
         <img src={kanaf} alt="kanaf" className="logo" />
         <img src={school} alt="school" className="logo" />
-        <img src={shaldag} alt="shaldag" className="logo" />
-        <img src={cat} alt="cat" className="logo" />
+        <img src={SOI} alt="SOI" className="logo" />
+        <img src={yahak} alt="yahak" className="logo" />
       </div>
       <div className="top-text">
         <p className="text" id="start-title">

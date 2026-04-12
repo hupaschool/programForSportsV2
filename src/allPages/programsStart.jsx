@@ -67,14 +67,6 @@ const ProgramPage = () => {
           <div
             className="program-sports"
             onClick={() => {
-              navigate("/swimming-program");
-            }}
-          >
-            <p className="program-text">שחייה</p>
-          </div>
-          <div
-            className="program-sports"
-            onClick={() => {
               navigate("/final-score-table");
             }}
           >
